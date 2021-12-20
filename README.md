@@ -6,7 +6,7 @@
 
 [toc]
 
-### MoMoSec-CodeInspector
+##  MoMoSec-CodeInspector
 
 This plugin focus on the security risks and provides one-click fix capability.
 
@@ -14,13 +14,13 @@ This plugin focus on the security risks and provides one-click fix capability.
 
 [Address](https://github.com/momosecurity/momo-code-sec-inspector-java)
 
-### Rainbow Brackets
+## Rainbow Brackets
 
 Eliminate context switching and costly distractions. Create and merge PRs and perform code reviews from inside your IDE while using jump-to-definition, your keybindings, and other IDE favorites. Learn more 
 Supported languages:
 Java, Scala, Clojure, Kotlin, Python, Haskell, Agda, Rust, JavaScript, TypeScript, Erlang, Go, Groovy, Ruby, Elixir, ObjectiveC, PHP, HTML, XML, SQL, Apex language, C#, Dart, Pug/Jade, Bash, Vue.js, C# Razor Pages, GLSL(the OpenGL Shading Language), Go Template...
 
-### SequenceDiagram 
+## SequenceDiagram 
 
 with this plugin, you can
 
@@ -34,13 +34,13 @@ with this plugin, you can
 - Lambda Expression(experimental)
 - Kotlin Support(Experimental, No code navigation)
 
-### Material Theme UI 
+##  Material Theme UI 
 
 > Need to charge
 
 Material Theme UI is a plugin for JetBrains IDE (IntelliJ IDEA, WebStorm, Android Studio and so on) that changes the original appearance to a Material Design look and feel.
 
-### Free Mybatis plugin
+## Free Mybatis plugin
 
 A idea plugin for mybatis free-idea-mybatis is an enchange plugin for idea to supoort mybatis,here is the main functions:
 
